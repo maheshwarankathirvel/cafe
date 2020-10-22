@@ -1,0 +1,19 @@
+.order{
+background-image:url("tea.jpg");
+background-image:no-repeat;
+background-attachment:fixed;
+background-size:cover;
+}
+
+.details{
+	background-image:url("./coffee.jpg");
+background-image:no-repeat;
+background-attachment:fixed;
+background-size:cover;
+}
+.btn{
+	text-decoration: none;
+	padding:6px;
+	background-color: white;
+	color:black;
+}
